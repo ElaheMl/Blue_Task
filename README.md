@@ -4,7 +4,7 @@ BlueTask is a modern full-stack task management app built with Vue.js, PHP, and 
 
 ## Preview
 
-![BlueTask Preview](./preview.png)
+![BlueTask Preview](preview.png)
 
 ## Features
 
